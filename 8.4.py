@@ -1,3 +1,4 @@
+#repo
 class StoreMashines:
 
     def __init__(self, name, price, quantity, number_of_lists, *args):
